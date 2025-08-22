@@ -88,7 +88,7 @@ _Oct 2016 – Mar 2019 | Muzaffarpur_
 ## Connect With Me  
 - Email: brajthetdh@gmail.com  
 - LinkedIn: [linkedin.com/in/braj-bhushan-kumar-67a0b4a2](https://linkedin.com/in/braj-bhushan-kumar-67a0b4a2)  
-- GitHub: [github.com/yourusername](https://github.com/brajthetdh1)  
+- GitHub: [github.com/brajthetdh1](https://github.com/brajthetdh1)  
 
 ---
 
