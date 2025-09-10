@@ -1,4 +1,4 @@
-# Hi, I'm Braj Bhushan Kumar  [Know More About Me](https://github.com/brajthetdh1)
+# Hi, I'm Braj Bhushan Kumar  [Know More About Me](https://brajthetdh1.github.io)
 
 Senior Software Engineer | Java | Spring Boot | Microservices | Cloud | Distributed Systems  
 Delhi, India  
