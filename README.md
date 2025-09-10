@@ -6,11 +6,10 @@ Delhi, India
 ---
 
 ## About Me  
-- Currently building energy trading and scheduling platforms at 50Hz Ltd  
 - Experienced in Java, Spring Boot, Kafka, Microservices, Cloud, and Distributed Systems  
 - Strong background in 5G Core Development, Payment Gateways, and Healthcare Systems  
 - Passionate about solving complex problems with clean, scalable architecture  
-- Open to collaborations on Java, Spring, Cloud, and Open Source projects  
+- Open to collaborations on Java, Spring boot, Microservices, Cloud, and Open Source projects  
 
 ---
 
@@ -32,10 +31,18 @@ Microservices, REST APIs, AWS, Jenkins, Git, Angular, React
 
 ## Experience  
 
+**Senior Java Software Consultant – Qappa Labs**  
+_Aug 2025 – Present | Delhi_  
+
 **Senior Software Engineer – 50Hz Ltd**  
-_Feb 2025 – Present | Delhi_  
+_Feb 2025 – Aug 2025 | Delhi_  
 - Designed and developed Spring Boot and Spring Batch solutions for energy trading platforms  
-- Built data crawling jobs to collect and process market data from exchanges  
+- Built data crawling jobs to collect and process market data from exchanges
+
+**Senior Java Software Consultant – Qappa Labs**  
+_Aug 2025 – Jan 2025 | Delhi_  
+- Worked on developing IDE for Kubernetes using python, Django.
+- Worked with React and Next.js to develop frontend.  
 
 **Software Engineer Manager – Reliance Jio**  
 _Sep 2022 – Jul 2024 | Mumbai (Remote)_  
@@ -59,9 +66,9 @@ _Oct 2019 – Sep 2020 | Bangalore_
 - Worked on Java, Python, C#, .NET, Django, SQL  
 - Fixed bugs, enhanced features, and handled module testing  
 
-**Java Freelancer – Self-employed**  
+**Independent Software Consultant – Freelancer**  
 _Oct 2016 – Mar 2019 | Muzaffarpur_  
-- End-to-end software development (requirements to deployment)  
+- End-to-end software development using java, jsp, servlet, spring, mysql, jdbc etc.
 - Delivered solutions remotely for multiple clients  
 
 ---
