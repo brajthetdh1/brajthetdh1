@@ -31,9 +31,6 @@ Microservices, REST APIs, AWS, Jenkins, Git, Angular, React
 
 ## Experience  
 
-**Senior Java Software Consultant – Qappa Labs**  
-_Aug 2025 – Present | Delhi_  
-
 **Senior Software Engineer – 50Hz Ltd**  
 _Feb 2025 – Aug 2025 | Delhi_  
 - Designed and developed Spring Boot and Spring Batch solutions for energy trading platforms  
