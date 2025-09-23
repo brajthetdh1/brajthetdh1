@@ -37,7 +37,7 @@ _Feb 2025 – Aug 2025 | Delhi_
 - Built data crawling jobs to collect and process market data from exchanges
 
 **Senior Java Software Consultant – Qappa Labs**  
-_Aug 2025 – Jan 2025 | Delhi_  
+_Aug 2024 – Jan 2025 | Delhi_  
 - Worked on developing IDE for Kubernetes using python, Django.
 - Worked with React and Next.js to develop frontend.  
 
