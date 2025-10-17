@@ -31,11 +31,6 @@ Microservices, REST APIs, AWS, Jenkins, Git, Angular, React
 
 ## Experience  
 
-**Senior Java Software Consultant – Qappa Labs**  
-_Aug 2024 – Jan 2025 | Delhi_  
-- Worked on developing IDE for Kubernetes using python, Django.
-- Worked with React and Next.js to develop frontend.  
-
 **Software Engineer Manager – Reliance Jio**  
 _Sep 2022 – Jul 2024 | Mumbai (Remote)_  
 - Developed 5G core node using Java, Spring Boot, SIGTRAN, WebSocket  
