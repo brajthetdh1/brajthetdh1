@@ -83,7 +83,6 @@ _Oct 2016 – Mar 2019 | Muzaffarpur_
 - Email: brajthetdh@gmail.com  
 - LinkedIn: [linkedin.com/in/braj-bhushan-kumar-67a0b4a2](https://linkedin.com/in/braj-bhushan-kumar-67a0b4a2)  
 - GitHub: [github.com/brajthetdh1](https://github.com/brajthetdh1)
-- Website: [brajthetdh1.github.io](https://brajthetdh1.github.io) 
 
 ---
 
