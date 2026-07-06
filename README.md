@@ -53,10 +53,7 @@ _Oct 2019 – Sep 2020 | Bangalore_
 - Worked on Java, Python, C#, .NET, Django, SQL  
 - Fixed bugs, enhanced features, and handled module testing  
 
-**Independent Software Consultant – Freelancer**  
-_Oct 2016 – Mar 2019 | Muzaffarpur_  
-- End-to-end software development using java, jsp, servlet, spring, mysql, jdbc etc.
-- Delivered solutions remotely for multiple clients  
+ 
 
 ---
 
